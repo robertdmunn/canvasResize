@@ -1,6 +1,6 @@
 {
   "name": "canvasResize",
-  "main": "canvasResize.js",
+  "main": "src/canvasResize.js",
   "version": "1.2.7",
   "homepage": "https://github.com/robertdmunn/canvasResize",
   "authors": [
